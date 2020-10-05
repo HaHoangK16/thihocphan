@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.exe
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.deps.json
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.runtimeconfig.json
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.dll
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\bin\Debug\netcoreapp3.1\THP2-Cau2.pdb
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.dll
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.pdb
+C:\Users\Admin\Desktop\Codegym\thihocphan\THP2-Cau2\obj\Debug\netcoreapp3.1\THP2-Cau2.genruntimeconfig.cache
